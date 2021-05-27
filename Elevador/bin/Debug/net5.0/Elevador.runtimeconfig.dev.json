@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Maracelo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Maracelo\\.nuget\\packages"
+    ]
+  }
+}

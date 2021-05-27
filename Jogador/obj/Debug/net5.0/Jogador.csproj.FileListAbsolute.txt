@@ -1,0 +1,16 @@
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\Jogador.csprojAssemblyReference.cache
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\Jogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\Jogador.AssemblyInfoInputs.cache
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\Jogador.AssemblyInfo.cs
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\Jogador.csproj.CoreCompileInputs.cache
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\bin\Debug\net5.0\Jogador.exe
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\bin\Debug\net5.0\Jogador.deps.json
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\bin\Debug\net5.0\Jogador.runtimeconfig.json
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\bin\Debug\net5.0\Jogador.runtimeconfig.dev.json
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\bin\Debug\net5.0\Jogador.dll
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\bin\Debug\net5.0\ref\Jogador.dll
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\bin\Debug\net5.0\Jogador.pdb
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\Jogador.dll
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\ref\Jogador.dll
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\Jogador.pdb
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Jogador\obj\Debug\net5.0\Jogador.genruntimeconfig.cache

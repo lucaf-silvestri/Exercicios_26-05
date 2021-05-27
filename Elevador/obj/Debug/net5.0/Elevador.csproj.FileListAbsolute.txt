@@ -1,0 +1,16 @@
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Elevador\bin\Debug\net5.0\Elevador.exe
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Elevador\bin\Debug\net5.0\Elevador.deps.json
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Elevador\bin\Debug\net5.0\Elevador.runtimeconfig.json
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Elevador\bin\Debug\net5.0\Elevador.runtimeconfig.dev.json
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Elevador\bin\Debug\net5.0\Elevador.dll
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Elevador\bin\Debug\net5.0\ref\Elevador.dll
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Elevador\bin\Debug\net5.0\Elevador.pdb
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Elevador\obj\Debug\net5.0\Elevador.csprojAssemblyReference.cache
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Elevador\obj\Debug\net5.0\Elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Elevador\obj\Debug\net5.0\Elevador.AssemblyInfoInputs.cache
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Elevador\obj\Debug\net5.0\Elevador.AssemblyInfo.cs
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Elevador\obj\Debug\net5.0\Elevador.csproj.CoreCompileInputs.cache
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Elevador\obj\Debug\net5.0\Elevador.dll
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Elevador\obj\Debug\net5.0\ref\Elevador.dll
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Elevador\obj\Debug\net5.0\Elevador.pdb
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Elevador\obj\Debug\net5.0\Elevador.genruntimeconfig.cache
