@@ -1,0 +1,16 @@
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Super Cafeteira Tabajaras Plus\bin\Debug\net5.0\Super Cafeteira Tabajaras Plus.exe
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Super Cafeteira Tabajaras Plus\bin\Debug\net5.0\Super Cafeteira Tabajaras Plus.deps.json
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Super Cafeteira Tabajaras Plus\bin\Debug\net5.0\Super Cafeteira Tabajaras Plus.runtimeconfig.json
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Super Cafeteira Tabajaras Plus\bin\Debug\net5.0\Super Cafeteira Tabajaras Plus.runtimeconfig.dev.json
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Super Cafeteira Tabajaras Plus\bin\Debug\net5.0\Super Cafeteira Tabajaras Plus.dll
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Super Cafeteira Tabajaras Plus\bin\Debug\net5.0\ref\Super Cafeteira Tabajaras Plus.dll
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Super Cafeteira Tabajaras Plus\bin\Debug\net5.0\Super Cafeteira Tabajaras Plus.pdb
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Super Cafeteira Tabajaras Plus\obj\Debug\net5.0\Super Cafeteira Tabajaras Plus.csprojAssemblyReference.cache
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Super Cafeteira Tabajaras Plus\obj\Debug\net5.0\Super Cafeteira Tabajaras Plus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Super Cafeteira Tabajaras Plus\obj\Debug\net5.0\Super Cafeteira Tabajaras Plus.AssemblyInfoInputs.cache
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Super Cafeteira Tabajaras Plus\obj\Debug\net5.0\Super Cafeteira Tabajaras Plus.AssemblyInfo.cs
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Super Cafeteira Tabajaras Plus\obj\Debug\net5.0\Super Cafeteira Tabajaras Plus.csproj.CoreCompileInputs.cache
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Super Cafeteira Tabajaras Plus\obj\Debug\net5.0\Super Cafeteira Tabajaras Plus.dll
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Super Cafeteira Tabajaras Plus\obj\Debug\net5.0\ref\Super Cafeteira Tabajaras Plus.dll
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Super Cafeteira Tabajaras Plus\obj\Debug\net5.0\Super Cafeteira Tabajaras Plus.pdb
+C:\Users\Maracelo\Documents\Senai\Exercícios 26-05\Super Cafeteira Tabajaras Plus\obj\Debug\net5.0\Super Cafeteira Tabajaras Plus.genruntimeconfig.cache
